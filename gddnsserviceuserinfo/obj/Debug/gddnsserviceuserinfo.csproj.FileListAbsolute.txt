@@ -1,0 +1,38 @@
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe.config
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.pdb
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\MainWindow.baml
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\MainWindow.g.cs
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\App.g.cs
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo_MarkupCompile.cache
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.g.resources
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.Properties.Resources.resources
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.csproj.GenerateResource.Cache
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.exe
+C:\Users\jaxelrod\Documents\Visual Studio 2013\Projects\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.pdb
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe.config
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.exe
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.pdb
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.pdb
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.csprojResolveAssemblyReference.cache
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\MainWindow.baml
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\MainWindow.g.cs
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\App.g.cs
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo_MarkupCompile.cache
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.g.resources
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.Properties.Resources.resources
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.csproj.GenerateResource.Cache
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe.config
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.exe
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\bin\Debug\gddnsserviceuserinfo.pdb
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\MainWindow.baml
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\MainWindow.g.cs
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\App.g.cs
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo_MarkupCompile.cache
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.g.resources
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.Properties.Resources.resources
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.csproj.GenerateResource.Cache
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.exe
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\gddnsserviceuserinfo.pdb
+C:\Users\arnoldb\Documents\GitHub\WindowsDDNS\gddnsserviceuserinfo\obj\Debug\GDDNSServiceUserInfo.csprojResolveAssemblyReference.cache
